@@ -2,6 +2,7 @@
 The SHL Assessment Recommender is an intelligent system that takes a natural language hiring query or a job description URL and returns a structured list of recommended SHL assessments. It combines web scraping, semantic vector search with Qdrant, and reasoning with OpenAI's GPT to provide tailored assessment recommendations.
 
 #Demo
+
 https://github.com/user-attachments/assets/39822b07-659c-4754-aa88-d605f7ad7eb9
 
 ## Tech Stack
