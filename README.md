@@ -1,9 +1,14 @@
 # Hirely - SHL Assessment Recommender System 
 The SHL Assessment Recommender is an intelligent system that takes a natural language hiring query or a job description URL and returns a structured list of recommended SHL assessments. It combines web scraping, semantic vector search with Qdrant, and reasoning with OpenAI's GPT to provide tailored assessment recommendations.
 
-#Demo
+## Demo
 
 https://github.com/user-attachments/assets/39822b07-659c-4754-aa88-d605f7ad7eb9
+
+## Sample vector point
+
+https://github.com/user-attachments/assets/9d2c5d28-b40f-4faa-9beb-6a3002f43e8d
+
 
 ## Tech Stack
 
