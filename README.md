@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/39822b07-659c-4754-aa88-d605f7ad7eb9
 
 ## Sample vector point
 
-https://github.com/user-attachments/assets/9d2c5d28-b40f-4faa-9beb-6a3002f43e8d
+![Assessment storage point](https://github.com/user-attachments/assets/9d2c5d28-b40f-4faa-9beb-6a3002f43e8d)
 
 
 ## Tech Stack
